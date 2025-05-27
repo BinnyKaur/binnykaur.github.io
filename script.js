@@ -126,7 +126,7 @@ const portfolioData = {
             icon: "fas fa-chart-bar",
             title: "Tableau Public",
             value: "View My Dashboards",
-            href: "https://public.tableau.com/app/profile/binny.kaur"
+            href: "https://public.tableau.com/app/profile/binny.kaur7285/vizzes"
         },
         {
             icon: "fab fa-linkedin",
